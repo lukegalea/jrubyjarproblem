@@ -1,0 +1,10 @@
+To reproduce problem: 
+  warble jar
+
+This will generate a jar.
+
+Run it via java -jar jrubyjarproblem.jar
+
+So far I have tested on two different OSX machines both running JDK 1.6.0_24, one works.. the other does not.
+One has XCode installed (the one that works), but other than that I can't see a difference between the two.
+It certainly doesn't work on windows JRE 1.6.0_25 nor JDK 1.6.0_14
